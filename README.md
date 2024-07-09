@@ -8,7 +8,7 @@
 
 ChemlalFood is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://restaurant-chemlal.netlify.app"><strong>➥ Live Demo</strong></a>
   <br />
   <br />
   <a href="https://www.youtube.com/watch?v=gobLRDxGsvs" rel="nofollow"><strong>➥ Video Youtube</strong></a>
